@@ -1,7 +1,0 @@
-/.idea/
-/.vscode/
-.gitattributes
-
-*.log
-*.abc
-.gitignore
