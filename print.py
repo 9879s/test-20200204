@@ -4,4 +4,4 @@ sdf
 sad
 fasd
 fasda22sdgi
-print(123);
+print(123);123
