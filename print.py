@@ -1,1 +1,1 @@
-print("!")
+print("!") print 123
